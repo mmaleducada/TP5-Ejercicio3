@@ -8,3 +8,11 @@ body {
 main {
     flex-grow: 1;
 }
+
+.container {
+    margin-top: 50px;
+}
+
+#listaTareas li {
+    margin-bottom: 10px;
+}
